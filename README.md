@@ -12,7 +12,7 @@
 
 ##### **Important note**: 
 - This theme was designed to goes with custom font. However, since this fuction was temporarily disabled as it caused issues for many users, I don't recommended using it until the new update arrive
-- In case if you really want to enable custom font, please check the newest Themer changelog for more details
+- In case you really want to enable custom font, please check the newest Themer changelog for more details
 ###### Current version: 1.0.0
 ## Changelog:
 ### 1.0.0
