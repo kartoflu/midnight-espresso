@@ -2,7 +2,8 @@
     "manifest": {
         "author": "кarto",
         "name": "koffi",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/koffi\/main\/koffi.json"
     },
     "background": {
         "overlay_alpha": 50
