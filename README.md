@@ -12,8 +12,9 @@
 
 ##### **Important note**: 
 - *This theme require Custom font (Font hook) enabled*. However, since this fuction was temporarily disabled as it caused issues for many users, I don't recommended using it until the new update arrive
-- In case you really want to enable custom font, please check the newest Themer changelog for more details
-###### Current version: 1.0.0
+###### Current version: 1.1.0
 ## Changelog:
+### 1.1.0
+- Did some tweaks to improve readability
 ### 1.0.0
 - Initial release
