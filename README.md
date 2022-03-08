@@ -10,11 +10,12 @@
 
 ![20211128_103311](https://user-images.githubusercontent.com/92243378/143729404-a08c3324-deb2-41a6-bbda-9e1db2d3632e.png)
 
-##### **Important note**: 
-- *This theme require Custom font (Font hook) enabled*. However, since this fuction was temporarily disabled as it caused issues for many users, I don't recommended using it until the new update arrive
+##### **Important**: This theme was originally designed for aliucord, thus it's not guaranteed to work on any other Discord clients such as BetterDiscord or Powercord etc.
+Before installing this theme, please make sure these following settings are enable:
+- Custom font (temporary disabled by developer, could still be enabled using guide provided in Themer changelog)
 ###### Current version: 1.1.0
 ## Changelog:
 ### 1.1.0
-- Did some tweaks to improve readability
+- Readability tweaks
 ### 1.0.0
 - Initial release
