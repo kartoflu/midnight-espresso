@@ -1,21 +1,20 @@
 {
     "manifest": {
-        "author": "кarto",
+        "author": "karto",
         "name": "koffi",
-        "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/koffi\/main\/koffi.json"
+        "version": "1.1.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/koffi\/main\/koffi.json",
+        "license": "MIT"
     },
-    "background": {
-        "overlay_alpha": 50
-    },
+    "background": {},
     "fonts": {
-        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/901813783712923648\/AnkaCoder-C87-b.ttf",
-        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/901813783712923648\/AnkaCoder-C87-b.ttf",
-        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/908374415857823774\/Inconsolata-SemiBold.ttf",
-        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/901813783712923648\/AnkaCoder-C87-b.ttf",
-        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/908374415857823774\/Inconsolata-SemiBold.ttf",
-        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/908374415857823774\/Inconsolata-SemiBold.ttf",
-        "sourcecodepro_semibold": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/901813189723963432\/Inconsolata-Medium.ttf"
+        "whitney_semibold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/Inconsolata-SemiBold.ttf?raw=true",
+        "whitney_medium": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/Inconsolata-SemiBold.ttf?raw=true",
+        "whitney_bold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/Inconsolata-SemiBold.ttf?raw=true",
+        "sourcecodepro_semibold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/Inconsolata-Medium.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/AnkaCoder_Condensed-Bold.ttf?raw=true",
+        "ginto_medium": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/AnkaCoder_Condensed-Bold.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/AnkaCoder_Condensed-Bold.ttf?raw=true"
     },
     "simple_colors": {
         "accent": -3426165,
@@ -52,7 +51,8 @@
         "primary_dark_900": -10531778,
         "primary_900_alpha_80": -10794949,
         "primary_660": -11321036,
-        "brand_new_500": -4550267
+        "brand_new_500": -4550267,
+        "primary_dark_330": -5797775
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -11321036,
@@ -89,9 +89,17 @@
         "ic_open_in_browser_white_24dp": -5797775,
         "ic_arrow_back_white_24dp": -5797775,
         "ic_share_white_24dp": -5797775,
-        "ic_overflow_dark_24dp": -5797775
+        "ic_overflow_dark_24dp": -5797775,
+        "ic_notifications_settings_white_a60_24dp": -2444138,
+        "ic_thread_white_24dp": -2444138,
+        "ic_content_copy_white_a60_24dp": -2444138,
+        "ic_visibility_white_24dp": -2444138,
+        "ic_notifications_white_a60_24dp": -2444138,
+        "ic_notifications_off_white_a60_24dp": -2444138,
+        "ic_settings_white_a60_24dp": -2444138,
+        "ic_person_add_white_a60_24dp": -2444138,
+        "ic_open_in_new_white_a60_24dp": -2444138,
+        "ic_share_white_a60_24dp": -2444138
     },
-    "raws": {
-        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/811261478875299840\/908469399390924800\/3hpUwCz.opus"
-    }
+    "raws": {}
 }
