@@ -2,7 +2,7 @@
 Koffi
 </h1>
 
-# Preview
+# Preview (Legacy Only)
 
 ![20211128_103311](https://user-images.githubusercontent.com/92243378/143729404-a08c3324-deb2-41a6-bbda-9e1db2d3632e.png)
 
