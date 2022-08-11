@@ -14,15 +14,19 @@ Funky useless changelog that probably no one will see (kek)
 
 ## [Legacy] Koffi (1.x.x)
 
-### 1.1.1 - ?
+### 1.2.0 - 2022-08-11
+
+#### Changed
+- Switched font and background host from Discord to Github
+- Removed the trolly ringtone <!-- aw -->
 
 #### Fixed
 - Uncolored texts and icons
 
 ### 1.1.0 - 2021-12-01
 
-#### Fixed
-- Some readability tweaks
+#### Changed
+- Some major tweaks for better readability
 
 ### 1.0.0 - 2021-11-28
 - Initial release
