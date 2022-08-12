@@ -12,15 +12,15 @@ Midnight-Espresso/Koffi
 
 ## What's new?
 ### Midnight-Espresso (formerly Koffi) v2.0.0
-- Complete overhaul
-- New font replacement
-- Switched font host from Discord to Github
+- Complete theme overhaul with a darker color palette
+- New font replacement & switched font host from Discord to Github
 - Fixed uncolored texts and icons
 - Removed some unnecessary strings (ringtone, overlay_alpha)
 ##### You can check the full changelog [here](https://github.com/kartoflu/koffi/blob/main/CHANGELOG.md)
 
 ## Manual Installation
-- Download theme files from Releases
+For now legacy version can only be installed manually, please be patient and refer to this guide instead until the raw links are updated.
+- Download theme file from Releases
 - Move the file you just downloaded to Aliucord/themes
 - Restart the app
 
@@ -28,7 +28,7 @@ Midnight-Espresso/Koffi
 You saw the previews, you know what's coming. To get the visual tweak as featured in title preview, the appropriate settings of these folowing plugins is necessary:
 ### BetterChatbox
 #### General
-- Use old gallery button: Enabled
+- Use old gallery button: Disabled
 - Use small gallery button: Enabled
 - Always show send button: Disabled
 - Avatar display mode: None
@@ -48,12 +48,13 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 - Unread counter
 - Drawer button
 - Search button
+- Thread button
 - Member button
 - Call button
 - Video button
 - Leave the rest disabled
 
 ### Bonus: CustomTimestamp
-- Set the custom timestamp format as `MMM dd, yyyy - hh:mm:ss`
+- Set the custom timestamp format as `h:mm a | EEEE, MMMM d yyyy`
 
 ###### note to self: update repo name & links
