@@ -53,3 +53,5 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 
 ### Bonus: CustomTimestamp
 - Set the custom timestamp format as `MMM dd, yyyy - hh:mm:ss`
+
+###### note to self: update repo name & links
