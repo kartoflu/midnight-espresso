@@ -2,31 +2,39 @@
 
 Funky useless changelog that probably no one will see (kek)
 
-## Midnight-Espresso (2.0.0 and up)
+## Midnight-Espresso (2.0.0+)
 
-### 2.0.0 - ?
+### 2.0.0 (updated from 1.1.0) - 2022-08-12
 
 #### Changed
-- temp
+- Renamed to Midnight-Espresso
+- Complete theme overhaul
+- New font replacement
+- Switched font host from Discord to Github
 
 #### Fixed
-- temp
+- Some uncolored texts and icons
 
-## [Legacy] Koffi (1.x.x)
+#### Removed
+- Unnecessary strings (ringtone, overlay_alpha)
+
+## [Legacy] Koffi
 
 ### 1.2.0 - 2022-08-11
 
 #### Changed
-- Switched font and background host from Discord to Github
-- Removed the trolly ringtone <!-- aw -->
+- Switched font host from Discord to Github
 
 #### Fixed
-- Uncolored texts and icons
+- Some uncolored texts and icons
+
+#### Removed
+- Unnecessary strings (ringtone, overlay_alpha)
 
 ### 1.1.0 - 2021-12-01
 
 #### Changed
-- Some major tweaks for better readability
+- Some major readability tweaks
 
 ### 1.0.0 - 2021-11-28
 - Initial release
