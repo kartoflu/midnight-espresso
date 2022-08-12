@@ -1,20 +1,22 @@
 <h1 align="center">
-Koffi
+Midnight-Espresso/Koffi
 </h1>
 
-# Preview (Legacy Only)
+# Preview (Legacy)
 
 ![20211128_103311](https://user-images.githubusercontent.com/92243378/143729404-a08c3324-deb2-41a6-bbda-9e1db2d3632e.png)
 
 ## Required settings
-- Transparency set to None
+- No transparency
 - Custom font
 
 ## What's new?
-### Midnight-Espresso
-- temp
-### [Legacy] Koffi
-- temp
+### Midnight-Espresso (formerly Koffi) v2.0.0
+- Complete overhaul
+- New font replacement
+- Switched font host from Discord to Github
+- Fixed uncolored texts and icons
+- Removed some unnecessary strings (ringtone, overlay_alpha)
 ##### You can check the full changelog [here](https://github.com/kartoflu/koffi/blob/main/CHANGELOG.md)
 
 ## Manual Installation
