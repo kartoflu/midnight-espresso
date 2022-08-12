@@ -3,7 +3,8 @@
         "name": "midnight-espresso",
         "version": "2.0.0",
         "author": "karto",
-        "license": "MIT"
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/koffi\/main\/themes\/midnight-espresso.json"
     },
     "background": {},
     "fonts": {
