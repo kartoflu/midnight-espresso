@@ -5,7 +5,7 @@
   - Transparency set to None
   - Enable Custom Fonts
 - Dark Mode Enabled
-- (Optional) Set Chat Font Scalling to 80% or any other size that fit your preference
+- (Optional) Set Chat Font Scalling to 80% or any other size that fits your preferences
 
 ## What's new?
 ### Midnight-Espresso (formerly Koffi) v2.0.0
