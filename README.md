@@ -1,14 +1,8 @@
-<h1 align="center">
-Midnight-Espresso/Koffi
-</h1>
-
-# Preview (Legacy)
-
-![20211128_103311](https://user-images.githubusercontent.com/92243378/143729404-a08c3324-deb2-41a6-bbda-9e1db2d3632e.png)
+![title-preview](previews/title.png)
 
 ## Required settings
 - No transparency
-- Custom font
+- Custom fonts
 
 ## What's new?
 ### Midnight-Espresso (formerly Koffi) v2.0.0
@@ -56,5 +50,10 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 
 ### Bonus: CustomTimestamp
 - Set the custom timestamp format as `h:mm a | EEEE, MMMM d yyyy`
+
+## Previews
+![espresso-preview](https://raw.githubusercontent.com/kartoflu/koffi/main/previews/espresso-preview.png)
+
+![coffee-preview](https://raw.githubusercontent.com/kartoflu/koffi/main/previews/coffee-preview.png)
 
 ###### note to self: update repo name & links
