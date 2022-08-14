@@ -3,8 +3,8 @@
         "author": "karto",
         "version": "1.2.0",
         "license": "MIT",
-        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/koffi\/main\/themes\/koffi.json",
-        "name": "midnight-coffee"
+        "name": "midnight-coffee",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/koffi\/9556c21ed1604a0bec38b09ed405de4eadd5c9ae\/themes\/midnight-coffee.json"
     },
     "background": {},
     "fonts": {
