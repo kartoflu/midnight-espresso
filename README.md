@@ -1,20 +1,24 @@
 ![title-preview](previews/title.png)
 
-## Required settings
-- No transparency
-- Custom fonts
+## Requirements
+- Aliucord & Themer Installed (duh)
+  - Transparency set to None
+  - Enable Custom Fonts
+- Dark Mode Enabled
+- (Optional) Set Chat Font Scalling to 80% or any other size that fit your preference
 
 ## What's new?
 ### Midnight-Espresso (formerly Koffi) v2.0.0
-- Complete theme overhaul with a darker color palette
-- New font replacement & switched font host from Discord to Github
+- Complete theme overhaul
+- New font replacement & switched font host to Github
 - Fixed uncolored texts and icons
 - Removed some unnecessary strings (ringtone, overlay_alpha)
 ##### You can check the full changelog [here](https://github.com/kartoflu/koffi/blob/main/CHANGELOG.md)
 
 ## Manual Installation
-For now legacy version can only be installed manually, please be patient and refer to this guide instead until the raw links are updated.
-- Download theme file from Releases
+Currently legacy is not available for regular installation. For the time being, please refer to this guide instead until the links are fixed.
+<!-- Having troubles with regular installation? You can refer to this guide instead! (Don't worry, it's not even that complicated) -->
+- Download theme file from [Releases](https://github.com/kartoflu/koffi/releases/tag/v1.0.0)
 - Move the file you just downloaded to Aliucord/themes
 - Restart the app
 
@@ -38,7 +42,7 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 - Chatbox height: Set as 114
 - Button sizing: Set as 114
 
-### NoBurIn: Enable these folowing
+### NoBurnIn: Enable these folowing
 - Unread counter
 - Drawer button
 - Search button
@@ -46,14 +50,16 @@ You saw the previews, you know what's coming. To get the visual tweak as feature
 - Member button
 - Call button
 - Video button
-- Leave the rest disabled
 
-### Bonus: CustomTimestamp
-- Set the custom timestamp format as `h:mm a | EEEE, MMMM d yyyy`
+### Bonus
+- CustomTimestamp: Set the custom timestamp format as `k:mm:ss | EEEE, MMM d yyyy` <!-- k:m:s (heh) -->
+- SquareAvatars: Simply install the plugin. That's it.
 
 ## Previews
 ![espresso-preview](https://raw.githubusercontent.com/kartoflu/koffi/main/previews/espresso-preview.png)
 
 ![coffee-preview](https://raw.githubusercontent.com/kartoflu/koffi/main/previews/coffee-preview.png)
+
+<!-- poop theme is no more!!1!xddzs -->
 
 ###### note to self: update repo name & links
