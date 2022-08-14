@@ -1,8 +1,8 @@
 # **Changelog**
 
-Funky useless changelog that probably no one will see (kek)
+Funky useless changelog that probably no one will see or read (kekw)
 
-## Midnight-Espresso (2.0.0+)
+## Midnight-Espresso
 
 ### 2.0.0 (updated from 1.1.0) - 2022-08-12
 
@@ -18,7 +18,7 @@ Funky useless changelog that probably no one will see (kek)
 #### Removed
 - Unnecessary strings (ringtone, overlay_alpha)
 
-## [Legacy] Midnight-Coffee (Koffi)
+## [Legacy] Midnight-Coffee
 
 ### 1.2.0 - 2022-08-11
 
