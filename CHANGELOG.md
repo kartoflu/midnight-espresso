@@ -18,7 +18,7 @@ Funky useless changelog that probably no one will see (kek)
 #### Removed
 - Unnecessary strings (ringtone, overlay_alpha)
 
-## [Legacy] Koffi
+## [Legacy] Midnight-Coffee (Koffi)
 
 ### 1.2.0 - 2022-08-11
 
