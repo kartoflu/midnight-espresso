@@ -1,20 +1,20 @@
 {
     "manifest": {
-        "author": "karto",
         "version": "1.2.0",
         "license": "MIT",
         "name": "midnight-coffee",
-        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/midnight-espresso\/9556c21ed1604a0bec38b09ed405de4eadd5c9ae\/themes\/midnight-coffee.json"
+        "author": "kanned (karto)",
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/midnight-espresso\/main\/themes\/midnight-coffee.json"
     },
     "background": {},
     "fonts": {
-        "whitney_semibold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/Inconsolata-SemiBold.ttf?raw=true",
-        "whitney_medium": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/Inconsolata-SemiBold.ttf?raw=true",
-        "whitney_bold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/Inconsolata-SemiBold.ttf?raw=true",
-        "sourcecodepro_semibold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/Inconsolata-Medium.ttf?raw=true",
-        "ginto_regular": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/AnkaCoder_Condensed-Bold.ttf?raw=true",
-        "ginto_medium": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/AnkaCoder_Condensed-Bold.ttf?raw=true",
-        "ginto_bold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/koffi\/AnkaCoder_Condensed-Bold.ttf?raw=true"
+        "whitney_medium": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-coffee\/Inconsolata-SemiBold.ttf?raw=true",
+        "sourcecodepro_semibold": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-coffee\/Inconsolata-Medium.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-coffee\/AnkaCoder_Condensed-Bold.ttf?raw=true",
+        "ginto_medium": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-coffee\/AnkaCoder_Condensed-Bold.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-coffee\/AnkaCoder_Condensed-Bold.ttf?raw=true",
+        "whitney_semibold": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-coffee\/Inconsolata-Bold.ttf?raw=true",
+        "whitney_bold": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-coffee\/Inconsolata-ExtraBold.ttf?raw=true"
     },
     "simple_colors": {
         "accent": -3426165,
