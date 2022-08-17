@@ -21,7 +21,7 @@ Having troubles with regular installation? Try intalling the theme with this gui
 2. Move the file you just downloaded to Aliucord/themes using a file explorer
 3. Restart the app
 
-Note: If your theme can't load in properly, it might be your device's fault. Please see #theme-support in [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (remember to read pins) to troubleshoot your issue.
+Note: If your theme can't properly load in, it might be your device's fault. Please see #theme-support in [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (remember to read pins) to troubleshoot your issue.
 
 ## Visual Tweak/Plugin Config
 You saw the previews, you know what's coming. To get your Discord client looks like in title preview, the proper settings of these folowing plugins is required:
@@ -66,7 +66,7 @@ You saw the previews, you know what's coming. To get your Discord client looks l
 - SquareAvatars: Simply install the plugin. That's it.
 
 ## Previews
-(If you're on mobile, tap on the preview to open it in new tab)
+### <sup>(If you're on mobile, tap on the preview to open it in new tab)</sup>
 
 ![espresso-preview](https://raw.githubusercontent.com/kartoflu/midnight-espresso/main/previews/espresso-preview.png)
 
