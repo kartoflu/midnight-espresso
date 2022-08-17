@@ -2,18 +2,18 @@
     "manifest": {
         "name": "midnight-espresso",
         "version": "2.0.0",
-        "author": "karto",
         "license": "MIT",
-        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/midnight_espresso\/main\/themes\/midnight-espresso.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/kartoflu\/midnight-espresso\/main\/themes\/midnight-espresso.json",
+        "author": "kanned (karto)"
     },
     "background": {},
     "fonts": {
-        "whitney_medium": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/midnight-espresso\/Cabin-Medium.ttf?raw=true",
-        "whitney_semibold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/midnight-espresso\/Cabin-SemiBold.ttf?raw=true",
-        "ginto_bold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/midnight-espresso\/NunitoSans-ExtraBold.ttf?raw=true",
-        "ginto_medium": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/midnight-espresso\/NunitoSans-Bold.ttf?raw=true",
-        "ginto_regular": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/midnight-espresso\/NunitoSans-SemiBold.ttf?raw=true",
-        "whitney_bold": "https:\/\/github.com\/kartoflu\/koffi\/blob\/main\/fonts\/midnight-espresso\/LexendDeca-Medium.ttf?raw=true"
+        "whitney_semibold": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-espresso\/Cabin-SemiBold.ttf?raw=true",
+        "whitney_medium": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-espresso\/Cabin-Medium.ttf?raw=true",
+        "whitney_bold": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-espresso\/LexendDeca-Medium.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-espresso\/NunitoSans-SemiBold.ttf?raw=true",
+        "ginto_medium": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-espresso\/NunitoSans-Bold.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/kartoflu\/midnight-espresso\/blob\/main\/fonts\/midnight-espresso\/NunitoSans-ExtraBold.ttf?raw=true"
     },
     "simple_colors": {
         "mention_highlight": 631145334,
