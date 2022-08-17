@@ -10,7 +10,7 @@ Funky useless changelog that probably no one will see or read (kekw)
 - Renamed to Midnight-Espresso
 - Complete theme overhaul
 - New font replacement
-- Switched font host from Discord to Github
+- Changed font host to Github
 
 #### Fixed
 - Some uncolored texts and icons
@@ -34,7 +34,7 @@ Funky useless changelog that probably no one will see or read (kekw)
 ### 1.1.0 - 2021-12-01
 
 #### Changed
-- Some major readability tweaks
+- Some readability tweaks
 
 ### 1.0.0 - 2021-11-28
 - Initial release
