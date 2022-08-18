@@ -52,7 +52,8 @@
         "brand_new_500": -6388874,
         "primary_dark_330": -6388874,
         "brand_new_260": -2245458,
-        "abc_tint_switch_track": 832471926
+        "abc_tint_switch_track": 832471926,
+        "primary_300": -15002606
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -13160919,
