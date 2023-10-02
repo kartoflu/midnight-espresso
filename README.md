@@ -1,30 +1,31 @@
 ![title-preview](previews/title.png)
 
+> Note: This is the Aliucord version of this theme. For Vendetta, see [this](https://discord.com/channels/1015931589865246730/1138099451026747402/1138099451026747402) port.
+
 ## Requirements
-- [Aliucord](https://github.com/Aliucord/Aliucord) & [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) Installed (duh)
-  - Transparency set to None
-  - Enable Custom Fonts
-- Dark Mode Enabled
-- (Optional) Set Chat Font Scalling to 80% or any size that fits your preferences
+- [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer) module installed
+  - No transparency
+  - Custom font enabled
 
 ## What's new?
-### Midnight-Espresso (formerly Koffi) v2.0.0
-- Complete theme overhaul
-- New font replacement & switched font host to Github
-- Fixed uncolored texts and icons
-- Removed some unnecessary strings (ringtone, overlay_alpha)
-##### You can check the full changelog [here](https://github.com/kartoflu/koffi/blob/main/CHANGELOG.md)
 
-## Manual Installation
-Having troubles with regular installation? Try intalling the theme with this guide instead:
-1. Download theme file from [Releases](https://github.com/kartoflu/midnight-espresso/releases/tag/v1.0.0)
-2. Move the file you just downloaded to Aliucord/themes using a file explorer
-3. Restart the app
+### Midnight-Espresso for Vendetta
+- Huge prop to VodkaMartini for porting this theme to Vendetta! You can install it with [this link](https://discord.com/channels/1015931589865246730/1138099451026747402/1138099451026747402). Also check out his [unofficial theming docs](https://vodkamartini.notion.site/vodkamartini/Vendetta-Theme-Docs-b240b7d7a1dd4120933d7f7679265c42)  if you are planning to make a theme for this Discord client.
+> You can check the full changelog [here](https://github.com/kartoflu/koffi/blob/main/CHANGELOG.md)
 
-Note: If your theme can't properly load in, it might be your device's fault. Please see #theme-support in [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (remember to read pins) to troubleshoot your issue.
+If you encounter any issue (ex. theme not loading properly), please see the #theme-support section in the official [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (check the pinned messages first, thank you) to troubleshoot your problem.
+
+### Alternative Installation Method
+In case my links in theme distribution channel are broken, you can manually install them by following these steps:
+1. From this page, scroll up, click the blue "View code" line and select the *themes* folder
+2. In *themes*, choose the one you want to be installed
+3. When the page is loaded, click the 3 dots button on the right side of the codeblock header (the box with colorful codes), then hit Download
+4. Using a file manager (ex. ZArchiver), move the downloaded theme to Aliucord > Themes
+
+Now just restart Aliucord and enable the newly installed theme like normal.
 
 ## Visual Tweak/Plugin Config
-You saw the previews, you know what's coming. To get your Discord client looks like in title preview, the proper settings of these folowing plugins is required:
+These below are the recommended plugins & settings for the best Norde experience. You can skip this part if you want, but I recommend giving it a try.
 ### BetterChatbox
 #### General
 - Use old gallery button: Disabled
@@ -61,15 +62,12 @@ You saw the previews, you know what's coming. To get your Discord client looks l
 - Remove the student hubs button in the server list
 - Remove the wellcome button on join messages
 
-### Bonus
-- CustomTimestamp: Set the custom timestamp format as `k:mm:ss | EEE, MMM d yyyy` <!-- k:m:s smh  -->
-- SquareAvatars: Simply install the plugin. That's it.
+### Bonus - Recommended Plugins
+- CustomTimestamps
+- SquareAvatars
 
 ## Previews
-### <sup>(If you're on mobile, tap on the preview to open it in new tab)</sup>
 
 ![espresso-preview](https://raw.githubusercontent.com/kartoflu/midnight-espresso/main/previews/espresso-preview.png)
 
 ![coffee-preview](https://raw.githubusercontent.com/kartoflu/midnight-espresso/main/previews/coffee-preview.png)
-
-<!-- poop theme is no more!!1!xddzs -->
