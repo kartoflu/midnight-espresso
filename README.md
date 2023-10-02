@@ -10,7 +10,7 @@
 ## What's new?
 
 ### Midnight-Espresso for Vendetta
-- Huge prop to VodkaMartini for porting this theme to Vendetta! You can install it with [this link](https://discord.com/channels/1015931589865246730/1138099451026747402/1138099451026747402). Also check out his [unofficial theming docs](https://vodkamartini.notion.site/vodkamartini/Vendetta-Theme-Docs-b240b7d7a1dd4120933d7f7679265c42)  if you are planning to make a theme for this Discord client.
+- Huge props to VodkaMartini for porting this theme to Vendetta! You can install it with [this link](https://discord.com/channels/1015931589865246730/1138099451026747402/1138099451026747402). Also check out his [unofficial theming docs](https://vodkamartini.notion.site/vodkamartini/Vendetta-Theme-Docs-b240b7d7a1dd4120933d7f7679265c42)  if you are planning to make a theme for this Discord client.
 > You can check the full changelog [here](https://github.com/kartoflu/koffi/blob/main/CHANGELOG.md)
 
 If you encounter any issue (ex. theme not loading properly), please see the #theme-support section in the official [Aliucord Support Server](https://discord.gg/EsNDvBaHVU) (check the pinned messages first, thank you) to troubleshoot your problem.
