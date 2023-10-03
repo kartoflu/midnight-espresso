@@ -25,7 +25,7 @@ In case my links in theme distribution channel are broken, you can manually inst
 Now just restart Aliucord and enable the newly installed theme like normal.
 
 ## Visual Tweak/Plugin Config
-These below are the recommended plugins & settings for the best Norde experience. You can skip this part if you want, but I recommend giving it a try.
+These below are the recommended plugins & settings for the best Midnight-Espresso experience. You can skip this part if you want, but I recommend giving it a try.
 ### BetterChatbox
 #### General
 - Use old gallery button: Disabled
