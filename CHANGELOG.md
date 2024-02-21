@@ -1,40 +1,20 @@
 # **Changelog**
 
-Funky useless changelog that probably no one will see or read (kekw)
+## Midnight Espresso
 
-## Midnight-Espresso
+### 1.0.0 (12 - 8 - 2022)
+- Initial release as replacement of Koffi
 
-### 2.0.0 (updated from 1.1.0) - 2022-08-12
+## Midnight Coffee (legacy)
 
-#### Changed
-- Renamed to Midnight-Espresso
-- Complete theme overhaul
-- New font replacement
-- Changed font host to Github
+### 1.2.0 (11 - 8 - 2022)
+- Renamed to Midnight Coffee
+- Fonts have been migrated and are now hosted on Github
+- More texts and icons are colored
+- Removed unnecessary strings (ringtone, overlay_alpha)
 
-#### Fixed
-- Some uncolored texts and icons
+### 1.1.0 (1 - 12 - 2021)
+- Modified some elements to improve readability
 
-#### Removed
-- Unnecessary strings (ringtone, overlay_alpha)
-
-## [Legacy] Midnight-Coffee
-
-### 1.2.0 - 2022-08-11
-
-#### Changed
-- Switched font host from Discord to Github
-
-#### Fixed
-- Some uncolored texts and icons
-
-#### Removed
-- Unnecessary strings (ringtone, overlay_alpha)
-
-### 1.1.0 - 2021-12-01
-
-#### Changed
-- Some readability tweaks
-
-### 1.0.0 - 2021-11-28
-- Initial release
+### 1.0.0 (28 - 11 - 2021)
+- Initial release as Koffi
