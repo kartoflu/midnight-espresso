@@ -1,47 +1,42 @@
 ![title-preview](previews/title.png)
-
-> [!NOTE]  
-> This version is only compatible with Aliucord. For Vendetta (discontinued), see [this.](https://discord.com/channels/1015931589865246730/1138099451026747402/1138099451026747402)
+ 
+> [!NOTE]
+> Only compatible with Aliucord and Vendetta (discontinued). Made with ♡ by Komette.
 
 ## Required Plugins
 - [Themer](https://github.com/Vendicated/AliucordPlugins/tree/main/Themer)
-  - Transparency mode - `Chat`
-  - Custom font - `Enabled`
-- (Optional) BetterChatbox, NoBurnIn, LayoutController, BetterCodeBlocks, BetterChannelIcons, SquareAvatars, CustomTimestamps
+- (Optional) BetterChatbox, NoBurnIn, LayoutController
 
-## What's new? (3 - 10 - 2023)
+## What's new? (Oct 03, 2023)
 
-### Midnight-Espresso for Vendetta
-- Midnight-Espresso is now available for Vendetta thanks to VodkaMartini. You can install it with [this link.](https://discord.com/channels/1015931589865246730/1138099451026747402/1138099451026747402)
-- Also check out his [unofficial theming docs](https://vodkamartini.notion.site/vodkamartini/Vendetta-Theme-Docs-b240b7d7a1dd4120933d7f7679265c42) if you want to create a theme for this Discord client.
+### Midnight-Espresso now ported to Vendetta
+- Thanks to VodkaMartini for porting this theme to Vendetta. You can install it with [this link.](https://discord.com/channels/1015931589865246730/1138099451026747402/1138099451026747402)
 
-##### Full changelog? [Here.](https://github.com/kartoflu/midnight-espresso/blob/main/CHANGELOG.md)
+#####  [Full changelog](https://github.com/kartoflu/midnight-espresso/blob/main/CHANGELOG.md)
 
-> [!IMPORTANT]  
-> Having any unexpected difficulties (app crashing, theme not fully loaded, etc)? See the official [Aliucord Server](https://discord.gg/EsNDvBaHVU) for the help you need.
+## Usage
 
-## Theme Sideloading
-For themes outside of the [official source](https://discord.gg/EsNDvBaHVU), the only method of installation is through sideloading. This also applies to other alternate versions of Norde (which weren't available in the initial submission) and many different third-party themes.
+### a - Using Themer
+The conventional way to install themes. Make sure to join the [Aliucord server](https://discord.gg/EsNDvBaHVU) before following these instructions.
 
-With that said, here's the brief instruction on how you can sideload themes by yourself:
+1. Go to `#themes` and search for this theme
+2. Long press the message, then press `Install <theme name>`
+3. Open Themer settings (`User settings` > `Plugins` > `Themer`) and enable the theme.
 
-1. Download the zip file of this repo (or you can clone it with `git clone https://github.com/kartoflu/midnight-espresso.git`). In case you don't know where the download link is, it's in `Code` > `Download ZIP`.
-2. Unzip the file, move all the contents under `themes` into `Internal Storage/Aliucord/themes` using a file manager.
-2. Restart Aliucord. You can now toggle and use the theme as normal.
+### b - Installing Manually
+
+1. Download the zip file of this repo ( `Code` > `Download ZIP`)
+2. Unzip it, move all contents under `themes` to `Internal Storage/Aliucord/themes`
+3. Restart Aliucord and enable the theme.
 
 ## Plugin Configurations
+
+### Themer (Required)
+  - Transparency mode - `None`
+  - Custom font - `Enabled`
+
 > [!NOTE]
-> This section is completely optional, however if you are willing to experience this theme in its intended manner then this is for you. If you are not interested, feel free to skip it.
-
-For those listed below, you can simply install them and leave everything alone as their default presets are good enough. Still, you can spice things up by changing any settings you like.
-- BetterCodeBlocks
-- BetterChannelIcons
-- SquareAvatars
-
-> Plugins from here on will require some fine-tuning here and there. You might want to follow this part carefully.
-
-### CustomTimestamps
-Set to `h:mm / d M YY`
+> The rest from here on out is fully optional, skip it if you want to. Highly recommended if you want to better your experience.
 
 ### BetterChatbox
 #### General
@@ -220,6 +215,6 @@ Optional, can be set as you wish.
 </table>
 
 ## Previews
-![espresso-preview](https://raw.githubusercontent.com/kartoflu/midnight-espresso/main/previews/espresso-preview.png)
+![espresso-previews](https://raw.githubusercontent.com/kartoflu/midnight-espresso/main/previews/espresso-previews.png)
 
-![coffee-preview](https://raw.githubusercontent.com/kartoflu/midnight-espresso/main/previews/coffee-preview.png)
+![coffee-previews](https://raw.githubusercontent.com/kartoflu/midnight-espresso/main/previews/coffee-previews.png)
