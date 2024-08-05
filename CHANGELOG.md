@@ -1,20 +1,26 @@
 # **Changelog**
 
-## Midnight Espresso
+## Midnight-Espresso
 
-### 1.0.0 (12 - 8 - 2022)
-- Initial release as replacement of Koffi
+### 2.0.0 (12.08.2022)
 
-## Midnight Coffee (legacy)
+- Rename to Midnight-Espresso (previously Koffi)
+- Major color overhaul
+- Replace old fonts with Cabin (for chat text, etc) & Nunito Sans (for headers, etc)
+- Migrate resources to Github
+- Theme more texts and icons
+- Remove excess strings (ringtone, overlay_alpha)
 
-### 1.2.0 (11 - 8 - 2022)
-- Renamed to Midnight Coffee
-- Fonts have been migrated and are now hosted on Github
-- More texts and icons are colored
-- Removed unnecessary strings (ringtone, overlay_alpha)
+### 1.1.0 (01.12.2021)
+- Color tweaks for legibility
 
-### 1.1.0 (1 - 12 - 2021)
-- Modified some elements to improve readability
+### 1.0.0 (28.11.2021)
+- Initial release
 
-### 1.0.0 (28 - 11 - 2021)
-- Initial release as Koffi
+## Midnight-Coffee
+
+### 1.0.0 (11.08.2022)
+- Branch out from Koffi 1.1.0 (later renamed to Midnight-Espresso) as Midnight-Coffee
+- Migrate resources to Github
+- Theme more texts and icons
+- Remove excess strings (ringtone, overlay_alpha)
