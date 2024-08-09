@@ -20,7 +20,7 @@
 ## Midnight-Coffee
 
 ### 1.0.0 (11.08.2022)
-- Branch out from Koffi 1.1.0 (later renamed to Midnight-Espresso) as Midnight-Coffee
+- Branched out from Koffi 1.1.0 (later renamed to Midnight-Espresso) as Midnight-Coffee
 - Migrate resources to Github
 - Theme more texts and icons
 - Remove excess strings (ringtone, overlay_alpha)
